@@ -265,36 +265,36 @@ class OrdersManager extends ChangeNotifier {
 final List<Product> demoProducts = [
   Product(
     id: 1,
-    name: 'Товар #1',
-    price: '1200 tenge',
-    imageUrl: 'https://picsum.photos/400/600?random=1',
+    name: 'Футболка "Стильная"',
+    price: '12 000 ₸',
+    imageUrl: 'https://basket-02.wbbasket.ru/vol237/part23771/23771338/images/big/1.webp',
     description:
         'Стильный товар высокого качества. Идеально подойдёт для повседневного использования.',
     category: 'Одежда',
   ),
   Product(
     id: 2,
-    name: 'Товар #2',
-    price: '2400 tenge',
-    imageUrl: 'https://picsum.photos/400/600?random=2',
+    name: 'Кроссовки "Спортивные"',
+    price: '50 000 ₸',
+    imageUrl: 'https://img-1.kwcdn.com/product/fancy/9128d82d-9333-42b4-8b69-ff5ad6cb20e4.jpg?imageView2/2/w/800/q/70/format/avif',
     description:
         'Премиальный товар из новой коллекции. Современный дизайн и отличное качество.',
     category: 'Обувь',
   ),
   Product(
     id: 3,
-    name: 'Товар #3',
-    price: '3600 tenge',
-    imageUrl: 'https://picsum.photos/400/600?random=3',
+    name: 'Сумка "Элегантная"',
+    price: '850 000 ₸',
+    imageUrl: 'https://balleria.com.kz/image/cachewebp/products/2025-11/9392/7103182R20W3798_01_M_2025-07-29T09-38-51.906Z-570x754.webp',
     description:
         'Эксклюзивный товар ограниченной серии. Прекрасный выбор для особых случаев.',
     category: 'Аксессуары',
   ),
   Product(
     id: 4,
-    name: 'Товар #4',
-    price: '4800 tenge',
-    imageUrl: 'https://picsum.photos/400/600?random=4',
+    name: 'Футболка крутая',
+    price: '100 000 ₸',
+    imageUrl: 'https://img.joomcdn.net/275fcce6185e1ca03a62b6d9f398bac95b2de9b9_original.jpeg',
     description: 'Трендовый товар сезона. Сочетает в себе комфорт и стиль.',
     category: 'Одежда',
   ),
